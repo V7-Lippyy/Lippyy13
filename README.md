@@ -11,7 +11,7 @@ I'm currently diving deep into Python and expanding my knowledge in web developm
 ### 📫 How to Reach Me
 - **Email**: alifqadry@gmail.com
 - **LinkedIn**: ([https://linkedin.com/in/muhammad-alif-qadri](https://www.linkedin.com/in/muhalifqadri/))
-- **Instagram**: [instagram.com/liip.qdry]([https://twitter.com/alifqadri](https://www.instagram.com/liip.qdry))
+- **Instagram**: ([https://twitter.com/alifqadri](https://www.instagram.com/liip.qdry)
 
 ### 😄 Pronouns
 He/Him
