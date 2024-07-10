@@ -10,8 +10,8 @@ I'm currently diving deep into Python and expanding my knowledge in web developm
 
 ### 📫 How to Reach Me
 - **Email**: alifqadry@gmail.com
-- **LinkedIn**: ([https://linkedin.com/in/muhammad-alif-qadri](https://www.linkedin.com/in/muhalifqadri/))
-- **Instagram**: ([https://twitter.com/alifqadri](https://www.instagram.com/liip.qdry)
+- **LinkedIn**: (https://www.linkedin.com/in/muhalifqadri/))
+- **Instagram**: (https://www.instagram.com/liip.qdry)
 
 ### 😄 Pronouns
 He/Him
