@@ -1,3 +1,5 @@
+![Muhammad Alif Qadri (4)](https://github.com/Lippyy13/Lippyy13/assets/165007508/821de816-3aab-49a7-8c1d-a7b1574c1c2d)
+
 ## 👋 Hi, I’m @Lippyy13!
 
 ### 👀 About Me
@@ -8,8 +10,8 @@ I'm currently diving deep into Python and expanding my knowledge in web developm
 
 ### 📫 How to Reach Me
 - **Email**: alifqadry@gmail.com
-- **LinkedIn**: [linkedin.com/in/muhammad-alif-qadri](https://linkedin.com/in/muhammad-alif-qadri)
-- **Twitter**: [twitter.com/alifqadri](https://twitter.com/alifqadri)
+- **LinkedIn**: ([https://linkedin.com/in/muhammad-alif-qadri](https://www.linkedin.com/in/muhalifqadri/))
+- **Instagram**: [instagram.com/liip.qdry]([https://twitter.com/alifqadri](https://www.instagram.com/liip.qdry))
 
 ### 😄 Pronouns
 He/Him
